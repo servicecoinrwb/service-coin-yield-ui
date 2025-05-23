@@ -11,7 +11,7 @@
     "@reown/appkit-adapter-wagmi": "^2.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "viem": "^1.27.1",
+    "viem": "^2.0.15",
     "wagmi": "^2.6.1"
   },
   "devDependencies": {
