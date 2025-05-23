@@ -7,13 +7,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@reown/appkit": "^2.6.2",
+    "@reown/appkit-adapter-wagmi": "^2.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "viem": "^1.5.0",
-    "wagmi": "^1.4.0"
+    "viem": "^1.27.1",
+    "wagmi": "^2.6.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.3",
     "vite": "^5.0.0"
   }
 }
